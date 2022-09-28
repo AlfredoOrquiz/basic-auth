@@ -21,3 +21,8 @@ How do I set up the app?
 
 ## Documentation
 ![](Images/Lab-06.png)
+
+## Routing
+Run "npm test" in the terminal to test routes. You can also test these routes in thunder client:
+/signup
+/signin
